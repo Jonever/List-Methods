@@ -1,0 +1,16 @@
+C:\Users\jonev\source\repos\Chapter16_Project\bin\Debug\netcoreapp3.1\Chapter16_Project.exe
+C:\Users\jonev\source\repos\Chapter16_Project\bin\Debug\netcoreapp3.1\Chapter16_Project.deps.json
+C:\Users\jonev\source\repos\Chapter16_Project\bin\Debug\netcoreapp3.1\Chapter16_Project.runtimeconfig.json
+C:\Users\jonev\source\repos\Chapter16_Project\bin\Debug\netcoreapp3.1\Chapter16_Project.runtimeconfig.dev.json
+C:\Users\jonev\source\repos\Chapter16_Project\bin\Debug\netcoreapp3.1\Chapter16_Project.dll
+C:\Users\jonev\source\repos\Chapter16_Project\bin\Debug\netcoreapp3.1\Chapter16_Project.pdb
+C:\Users\jonev\source\repos\Chapter16_Project\obj\Debug\netcoreapp3.1\Chapter16_Project.Form1.resources
+C:\Users\jonev\source\repos\Chapter16_Project\obj\Debug\netcoreapp3.1\Chapter16_Project.csproj.GenerateResource.cache
+C:\Users\jonev\source\repos\Chapter16_Project\obj\Debug\netcoreapp3.1\Chapter16_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonev\source\repos\Chapter16_Project\obj\Debug\netcoreapp3.1\Chapter16_Project.AssemblyInfoInputs.cache
+C:\Users\jonev\source\repos\Chapter16_Project\obj\Debug\netcoreapp3.1\Chapter16_Project.AssemblyInfo.cs
+C:\Users\jonev\source\repos\Chapter16_Project\obj\Debug\netcoreapp3.1\Chapter16_Project.csproj.CoreCompileInputs.cache
+C:\Users\jonev\source\repos\Chapter16_Project\obj\Debug\netcoreapp3.1\Chapter16_Project.dll
+C:\Users\jonev\source\repos\Chapter16_Project\obj\Debug\netcoreapp3.1\Chapter16_Project.pdb
+C:\Users\jonev\source\repos\Chapter16_Project\obj\Debug\netcoreapp3.1\Chapter16_Project.genruntimeconfig.cache
+C:\Users\jonev\source\repos\Chapter16_Project\obj\Debug\netcoreapp3.1\Chapter16_Project.csproj.AssemblyReference.cache
