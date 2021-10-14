@@ -78,8 +78,15 @@ namespace Chapter16_Project
             int find = data.IndexOf(info);
             if (find == -1)
             {
-                data.Insert(index_, info);
-                ShowInfo();
+                try
+                {
+                    data.Insert(index_, info);
+                    ShowInfo();
+                }
+                catch(Exception ex)
+                {
+                    MessageBox.Show(ex.Message);
+                }
             }
             else
             {
